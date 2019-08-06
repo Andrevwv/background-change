@@ -1,1 +1,1 @@
-# background-change
+# The simplest background change app.
